@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon on the 5th of November, being the last which was preached by the reverend father in God, Bishop Brownrigg. Bishop of Exon.</title>
+            <author>Brownrig, Ralph 1592-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77704</idno>
+            <idno type="STC">Wing B5209</idno>
+            <idno type="STC">Thomason E2107_3</idno>
+            <idno type="STC">ESTC R210054</idno>
+            <idno type="EEBO-CITATION">99868887</idno>
+            <idno type="PROQUEST">99868887</idno>
+            <idno type="VID">121243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121243)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 241:E2107[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon on the 5th of November, being the last which was preached by the reverend father in God, Bishop Brownrigg. Bishop of Exon.</title>
+                  <author>Brownrig, Ralph 1592-1659.</author>
+               </titleStmt>
+               <extent>[2], 76 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Roberr [sic] Crofts at the Crown in Chancery-lane under Serjants Inne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660 [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 1659"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Gunpowder Plot, 1605 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121243:1" rendition="simple:additions"/>
+            <p>A Sermon ON the 5<hi rend="sup">th</hi> of <hi>November,</hi> BEING The laſt which was preached BY THE Reverend Father In God, Biſhop <hi>Brownrigg.</hi> Biſhop Of EXON.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Rober<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Crofts</hi> at the Crown in <hi>Chan<g ref="char:EOLhyphen"/>cery-Lane</hi> under <hi>Serjants Inne,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:121243:2"/>
+            <pb n="1" facs="tcp:121243:2"/>
+            <epigraph>
+               <q>
+                  <bibl>Dan. 6.21,22.</bibl>
+                  <p>O King live for ever, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <div type="part">
+               <p>THis Chapter (upon a ſummary <hi>viero</hi>) repreſents unto us a mali<g ref="char:EOLhyphen"/>cious conſpiracy, and a miraculous deliverance, The proſeprity and ho<g ref="char:EOLhyphen"/>nor of holy <hi>Daniell</hi> was envied by the <hi>Babylonian</hi> Princes, envy ſtirr'd them up to ſeek his ruine: No<g ref="char:EOLhyphen"/>thing will ſatisfie, for they conſult, conſpire, &amp; effect their purpoſe: the Prophet is condemned, yet he is
+<pb n="2" facs="tcp:121243:3"/> ſnatched from the jaws of death, and from thence the mighty hand of God doth wonderfully reſcue him. The words are <hi>Da<g ref="char:EOLhyphen"/>niells</hi> thankfull acknow<g ref="char:EOLhyphen"/>ledgement of this great deliverance, and 'tis di<g ref="char:EOLhyphen"/>rected to King <hi>Darius</hi> by whom he was caſt into this dangerous deſtructi<g ref="char:EOLhyphen"/>on; and it ſtandeth upon theſe particulars,</p>
+               <list>
+                  <item>1. A reverend Com<g ref="char:EOLhyphen"/>pellation, <hi>O King.</hi>
+                  </item>
+                  <item>2. A loyall ſalutation, <hi>Live for ever.</hi>
+                  </item>
+                  <item>3 A particular decla<g ref="char:EOLhyphen"/>ration of this deliverance, <hi>My God hath ſent his An<g ref="char:EOLhyphen"/>gell,</hi> &amp;c.</item>
+               </list>
+               <pb n="3" facs="tcp:121243:3"/>
+               <p>Come we to the firſt, the reverend Compella<g ref="char:EOLhyphen"/>tion. <hi>(O King)</hi> The Pro<g ref="char:EOLhyphen"/>phet here acknowledges and honors <hi>Darius</hi> for his Prince and Soveraigne: To underſtand this parti<g ref="char:EOLhyphen"/>cular we will conſider <hi>Darius</hi> in this four-fold conſideration.</p>
+               <p n="1">1 <hi>Darius</hi> was a Hea<g ref="char:EOLhyphen"/>then Prince, an Alien from the People of God, eſtranged from the Church of God and that holy ſociety, yet the Pro<g ref="char:EOLhyphen"/>phet doth honorably ac<g ref="char:EOLhyphen"/>knowledge him as his Prince and Soveraigne: it affords us this obſerva<g ref="char:EOLhyphen"/>tion, That Religion doth
+<pb n="4" facs="tcp:121243:4"/> not reſcue and exempt us from the power and au<g ref="char:EOLhyphen"/>thority of ſuch Gover<g ref="char:EOLhyphen"/>nours and Magiſtrates though Infidells, Hea<g ref="char:EOLhyphen"/>thens and ſtrangers to Re<g ref="char:EOLhyphen"/>ligion; the tyes &amp; bonds of our obedience to them are inviolable, Domini<g ref="char:EOLhyphen"/>on and Soveraignty are the conſtitutions of God, not as he is the author of Grace and Redeemer of the Church, but as Au<g ref="char:EOLhyphen"/>thor of Mankind and Go<g ref="char:EOLhyphen"/>vernour of the world. It<hi>'s</hi> a true Maxim, <hi>Dominium temborat non fundit in Gratia,</hi> ſupernaturall grace doth not conſtitute its authority, but it<hi>'s</hi> the
+<pb n="5" facs="tcp:121243:4"/> act of God in his provi<g ref="char:EOLhyphen"/>dence; Thus our Saviour acknowledges he was ſub<g ref="char:EOLhyphen"/>ject to <hi>Pilate;</hi> and the authority he had over him was from Heaven; Thus <hi>Paul</hi> appeals to <hi>Caeſar,</hi> &amp; accounts himſelfe abnoxi<g ref="char:EOLhyphen"/>ous to his judgement and tribunall as his Prince; Thus Chriſt paid tribute to <hi>Caeſar.</hi> Some teach that Religion and Chri<g ref="char:EOLhyphen"/>ſtianity does exempt us from obedience unto o<g ref="char:EOLhyphen"/>ther Magiſtrates, and thus they affirm, that Chriſti<g ref="char:EOLhyphen"/>anity &amp; the Goſpell doth utterly diſcharge us from any obedience to Heathen Magiſtrates: No, we ſee
+<pb n="6" facs="tcp:121243:5"/> 
+                  <hi>Chriſt, Paul,</hi> and all the Primative Churches ac<g ref="char:EOLhyphen"/>knowledge it otherwiſe, <hi>Daniell, Ezekiell,</hi> and the whole ſtate of Chriſtiani<g ref="char:EOLhyphen"/>ty doth abhor that Do<g ref="char:EOLhyphen"/>ctrine, and acknowledge their Magiſtrates lawfull authority.</p>
+               <p n="2">2 <hi>Darius</hi> was not one<g ref="char:EOLhyphen"/>ly an Alien but an Ene<g ref="char:EOLhyphen"/>my, he held the Church of God under Tyranny &amp; his command; yet not<g ref="char:EOLhyphen"/>withſtanding the Prophet acknowledges him as his lawfull Prince: Obſerve, Obedience to Magiſtrates it's nor only to thoſe law<g ref="char:EOLhyphen"/>full and juſt, but though they be oppreſſors, yet
+<pb n="7" facs="tcp:121243:5"/> notwithſtanding their ſub<g ref="char:EOLhyphen"/>jects owes to them all due obedience, Thus <hi>Jeremi<g ref="char:EOLhyphen"/>ah</hi> exhorteth the <hi>Jews</hi> to take upon them the yoke of the King of <hi>Babylon</hi> and ſubmit to him, to ſtudy the peace of his Govern<g ref="char:EOLhyphen"/>ment and to pray for him. Thus the primative Churches ſubmitted to the Emperour of <hi>Rome</hi> e<g ref="char:EOLhyphen"/>ven when it was <hi>Tyrannus;</hi> and <hi>Paul</hi> exhorts the Chriſtians to ſubmit to Magiſtrates even when they were perſecutors; Thus the whole Army of Marters ſubmitted to <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> that hatefull Apo<g ref="char:EOLhyphen"/>ſtate: 'tis true what <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>
+                  <pb n="8" facs="tcp:121243:6"/> ſays, Chriſtians had rather be murdered then murther others; and it was told the Em<g ref="char:EOLhyphen"/>perour in his time that the Chriſtians would wage war againſt the Emperours that did ſlay and deſtroy them but that Religion and conſcience did enforce obedience.</p>
+               <p n="3">3 <hi>Darius</hi> comes under a third account conſider how he made wicked laws here prohibiting all the worſhip of God, aſſumes all divine worſhip here to himſelfe, and yet not<g ref="char:EOLhyphen"/>withſtanding the Prophet <hi>Daniel</hi> acknowledges him as Prince and Soveraigne.
+<pb n="9" facs="tcp:121243:6"/> Indeed active and actuall obedience to their unlaw<g ref="char:EOLhyphen"/>full commands we may not, we muſt not per<g ref="char:EOLhyphen"/>forme (ſo to be obedient to them is to be rebelli<g ref="char:EOLhyphen"/>ous to God) but yet not<g ref="char:EOLhyphen"/>withſtanding though we refuſe thir perſonall commands in doing of them, yet it muſt be with all ſubmiſſion and ac<g ref="char:EOLhyphen"/>knowledgement of their power and authority; thus <hi>Saul's</hi> ſervants were obedient to him, though they would not obey his command in killing Gods Prieſts. This is certain, Magiſtrates and Rulers (though their command<g ref="char:EOLhyphen"/>ments
+<pb n="10" facs="tcp:121243:7"/> be unjuſt) we muſt acknowledge their Au<g ref="char:EOLhyphen"/>thority, though we doe not fullfill their com<g ref="char:EOLhyphen"/>mands: ſaith <hi>Auſtin,</hi> good lawes ſerve to bind men that are bad, and e<g ref="char:EOLhyphen"/>vill laws ſerve to prove the conſtancie of Reli<g ref="char:EOLhyphen"/>gion in them that are good: This is the Piety of Chriſtianity, we know who to obey, yet not<g ref="char:EOLhyphen"/>withſtanding to refuſe thoſe commands that are made againſt God.</p>
+               <p n="4">4 <hi>Darius</hi> was he that caſt <hi>Daniel</hi> into the Ly<g ref="char:EOLhyphen"/>ons Den: His Law did inſnate him, his ſentence condemned him, his ſeale
+<pb n="11" facs="tcp:121243:7"/> ſhut him up and ſeal'd him up in the Den of Ly<g ref="char:EOLhyphen"/>ons, yet notwithſtanding he did here acknowledge him as King and Sove<g ref="char:EOLhyphen"/>raigne: No wrongs that we can receive from Ma<g ref="char:EOLhyphen"/>giſtracy and Superiours muſt free and diſingage us from our obedience to them; Thus the prima<g ref="char:EOLhyphen"/>tive Church did obey thoſe Princes that yet notwithſtanding brought them into danger.</p>
+               <p>Having ſeen the conſi<g ref="char:EOLhyphen"/>deration of <hi>Daniel</hi> in it ſelfe; Now let us look upon his ſalutation <hi>(O King live for ever)</hi> he wiſhes him long life,
+<pb n="12" facs="tcp:121243:8"/> peace and proſperity here, and ſalvation here<g ref="char:EOLhyphen"/>after.</p>
+               <p n="1">1 He does not pray a<g ref="char:EOLhyphen"/>gainſt his Tiranny and Impiety; He charges not upon him the cruelty of his office, much leſſe doth he threaten him w<hi rend="sup">ith</hi> wrath and judgement from God, leaſt of all like the Pope that paſt ſentence of death againſt <hi>Henry</hi> the ſecond that for the death of a rebellious Papiſt, preſently ſentenced him and caſt him out of his Kingdome: No, here's the piety of a Chriſtian to pray for thoſe that re<g ref="char:EOLhyphen"/>vile and perſecute him:
+<pb n="13" facs="tcp:121243:8"/> ſaith Saint <hi>Paul,</hi> pray and curſe not, <hi>Rom.</hi> 12. This is not to be overcome of evill, but to overcome e<g ref="char:EOLhyphen"/>vill with good: 'tis that Saint <hi>Paul</hi> ſaith, he ap<g ref="char:EOLhyphen"/>proves himſelfe to be a good Chriſtian in all pa<g ref="char:EOLhyphen"/>tience, in affliction, in ſuffering, in perſecutions, in bonds and impriſon<g ref="char:EOLhyphen"/>ments. Indeed the ſpirit of the Law it was more direfull and more ſevere, <hi>Elijah</hi> calls for fire from heaven upon his perſecu<g ref="char:EOLhyphen"/>tors; I but the Goſpell calls us to an other ſpirit, the ſpirit of the Goſpell is a ſpirit of meekneſſe, gentleneſſe, goodneſſe;
+<pb n="14" facs="tcp:121243:9"/> there we muſt not take upon us unlawfull revenge but prayers and ſupplica<g ref="char:EOLhyphen"/>tions: We learn curſe<g ref="char:EOLhyphen"/>ing, and execrations, and ſlaughters from the ma<g ref="char:EOLhyphen"/>lignant Church, they are the brands of thoſe that are the worſhippers of the red Dragon; we that are the followers of the Lambe, and adore him, muſt be like the Lambe full of meekneſſe and gentleneſſe. <hi>Zechariah</hi> the ſon of <hi>Jehoiada</hi> (out of the ſpirit of the Law) when he was ſtoned, prays to God for vengeance, 2 <hi>Chron.</hi> 24.20. But <hi>Steven</hi> when he was
+<pb n="15" facs="tcp:121243:9"/> ſtoned (out of the ſpirit of the Goſpell) he prays for his Perſecutors, Lord lay not this ſin to their charge. Thus the Apo<g ref="char:EOLhyphen"/>ſtle when hardly uſed by the high Prieſt is falling to his prayers; not to puniſh and plague his E<g ref="char:EOLhyphen"/>nemies: but to win and convert them. This is the ſpirit of the Goſpell to yeild to, not riſe up again in any mutiny and rebel<g ref="char:EOLhyphen"/>lion.</p>
+               <p n="2">2 <hi>Orat pro Rege, Da<g ref="char:EOLhyphen"/>niel</hi> will not pray to the Emperour, but he prays for him: Here's the try<g ref="char:EOLhyphen"/>all of <hi>Daniells</hi> Allegi<g ref="char:EOLhyphen"/>ance to his King, he re<g ref="char:EOLhyphen"/>fuſes
+<pb n="16" facs="tcp:121243:10"/> indeed to pray to him, but he never gives over to pray for him. This is the duty we owe. Alas, his Enemies count<g ref="char:EOLhyphen"/>ed him an Idolatrous man, a worſhiper of ſtrange Gods, and one that will not honour the King; but whether is not <hi>Daniel</hi> a better ſubject that doth not pray to the King as an Idoll, but doth earneſtly pray to God for him? The King is to be honoured, <hi>non pro Deo,</hi> but <hi>propter Deum,</hi> not in<g ref="char:EOLhyphen"/>ſtead of God, but in the behalfe of God and Gods cauſe; we honour him not as an Idoll to pray to
+<pb n="17" facs="tcp:121243:10"/> him, but as the great Ma<g ref="char:EOLhyphen"/>giſtrate of God, and ſo we pray for him. Thus the primative Church did, they would not wor<g ref="char:EOLhyphen"/>ſhip the Emperour as God, nor ſacrifice to him; but prayed for his office for good ſucceſſe, for continuance in the Em<g ref="char:EOLhyphen"/>pire, and for all proſpe<g ref="char:EOLhyphen"/>rity.</p>
+               <p>
+                  <hi>The Third thing is the re<g ref="char:EOLhyphen"/>preſentation of the dan<g ref="char:EOLhyphen"/>ger it ſelfe; and it ſtands here upon five par<g ref="char:EOLhyphen"/>ticulars.</hi>
+               </p>
+               <list>
+                  <item>1 The Author of this deliverance, and that is <hi>(God.)</hi>
+                  </item>
+                  <pb n="18" facs="tcp:121243:11"/>
+                  <item>2 The Inſtrument of this deliverance whom God imployes, and that's an <hi>(Angell.)</hi>
+                  </item>
+                  <item>3 The manner of this deliverance how it was wrought <hi>(He ſtops the mouths of Lyons.)</hi>
+                  </item>
+                  <item>4 The meaſure of this deliverance how farre it proceeded, <hi>(He had not the leaſt hurt by it.</hi>
+                  </item>
+                  <item>5 The motive that ſtir<g ref="char:EOLhyphen"/>ed up God to do this for him, and that is two fold, 1. <hi>Innocentia perſonae,</hi> the Innocency of his perſon, <hi>(Before God he was found innocent)</hi> 2dly. <hi>Innocen<g ref="char:EOLhyphen"/>cia cauſa,</hi> The Innocency of his cauſe <hi>(Before thee
+<pb n="19" facs="tcp:121243:11"/> O King have I done no hurt.</hi>
+                  </item>
+               </list>
+               <p>Thus the Prophet <hi>Da<g ref="char:EOLhyphen"/>niell</hi> reckons up all the Cauſes of his deliverance in oppoſition to all his E<g ref="char:EOLhyphen"/>nemies; 1. They plot<g ref="char:EOLhyphen"/>ted to take away his life; here's releef againſt that, God Almighty hath ſaved and reſcued: 2ly. They excluded him out from the Kings favour; well, here's a remedy for that, he appropriates to him<g ref="char:EOLhyphen"/>ſelfe the favour of God, <hi>My God hath ſent his An<g ref="char:EOLhyphen"/>gell.</hi> 3ly. The Princes and Potentates of <hi>Babylon</hi> they conſpire againſt him to cut him off; but here's
+<pb n="20" facs="tcp:121243:12"/> a Potentate of Heaven, a holy Angell he comes with a reſcue. 4ly. They made ſure of him, ſhut him up, put him into the Lyons Den and ſealed it up; This Angell of God hath ſealed up the Lyons that they could not hurt him.</p>
+               <p>Firſt the Author of this deliverance; herein two things are obſervable; the author of this deliverance and that is God; and then the hould that he layes upon this God for his helpe, and that in this pronoune <hi>Meus,</hi> he is my God.</p>
+               <p>Firſt God is the Au<g ref="char:EOLhyphen"/>thor
+<pb n="21" facs="tcp:121243:12"/> of it. Indeed all de<g ref="char:EOLhyphen"/>liverances eſpecially of his Church and People, they are all the works of God, it's he works ſalva<g ref="char:EOLhyphen"/>tion and deliverance in the middſt of the Earth; and what ſaith <hi>David? God is a God of Salvation, and to God belongs the iſ<g ref="char:EOLhyphen"/>ſues of life, Pſal.</hi> 68. but eſpecially of this great de<g ref="char:EOLhyphen"/>liverance that we have now before us in three re<g ref="char:EOLhyphen"/>ſpects, three particular works of God, three <hi>Ec<g ref="char:EOLhyphen"/>ces.</hi>
+               </p>
+               <list>
+                  <item>1 <hi>Contra tantum ini<g ref="char:EOLhyphen"/>micum,</hi> To reſcue this Man from ſo potent a Prince as <hi>Darius.</hi>
+                  </item>
+                  <pb n="22" facs="tcp:121243:13"/>
+                  <item>2 <hi>A Tantillo,</hi> To ſuc<g ref="char:EOLhyphen"/>kor ſo helpleſſe and for<g ref="char:EOLhyphen"/>lorne a Man, that's God's peculiar.</item>
+                  <item>3 <hi>A Tanto periculo,</hi> from ſuch great danger to bring him out from the pit of deſtruction.</item>
+               </list>
+               <p n="1">1 <hi>Contra tantum ini<g ref="char:EOLhyphen"/>micum,</hi> for to reſcue this Prophet from <hi>Darius</hi> it muſt be the work of God. The ſtrong man may be at peace and hold what he will till a ſtronger then he ſpoiles him and takes a<g ref="char:EOLhyphen"/>way his goods: ſo all o<g ref="char:EOLhyphen"/>ther powers whatſoever. Private wrongs may have other adreſſes, but when the Magiſtrate doth argue
+<pb n="23" facs="tcp:121243:13"/> Law and Auhority, that's a peculiar caſe to God. St. <hi>Ambroſe, Baſill, Chri<g ref="char:EOLhyphen"/>ſoſtome,</hi> when the people would have reſcued them from the ill will of the Emperour; oh they ut<g ref="char:EOLhyphen"/>terly forbid it, O no, God and God onely is ter<g ref="char:EOLhyphen"/>rible to Kings.</p>
+               <p n="2">2 <hi>A Tantillo,</hi> for ſo forlorne and forſaken a Man, this is a caſe God only can diſpoſe it; he is utterly forlorne, caſt out of the Kings protection, no mediation uſed for him; here's a peculiar to God: It was <hi>Davids</hi> caſe, <hi>Pſal.</hi> 142.4. <hi>I look<g ref="char:EOLhyphen"/>ed on my right hand and be<g ref="char:EOLhyphen"/>held,
+<pb n="24" facs="tcp:121243:14"/> but there was no man that would know me, reſuge failed me, no man cared for my ſoul,</hi> (then he ſayes) <hi>I cried unto the Lord, I ſaid, thou art my refuge and my portion in the land of the living, deliver me from my Perſecutors, for they are ſtronger then I, this is the God that doth give it, he is the helper of the helpleſs.</hi>
+               </p>
+               <p n="3">3 <hi>A Tanto periculo,</hi> God alone can reſcue him from this danger: The King himſelfe if he would never ſo fane cannot ſave him: he is paſt the reach of any humane help: this is the caſe wherein God wil be ſeen, he is the helper
+<pb n="25" facs="tcp:121243:14"/> then from the greateſt dan<g ref="char:EOLhyphen"/>ger, when all is forſaken and loſt, when they ſee no hope in man as the condition of the Prophet is now deſperate God ſteps in. Thus <hi>Paul</hi> makes his thankfull ac<g ref="char:EOLhyphen"/>knowledgement when he was preſt in <hi>Aſia</hi> he de<g ref="char:EOLhyphen"/>ſpar'd of life; he receiv<g ref="char:EOLhyphen"/>ed the ſentence of death in himſelfe, yet he ac<g ref="char:EOLhyphen"/>knowledges God delivered me from ſo great evil. So he gives an account when he appeared firſt be<g ref="char:EOLhyphen"/>fore <hi>Nero</hi> that cruel Ty<g ref="char:EOLhyphen"/>rant, all men forſook me, no man ſtood by me, I but God ſtood by me, and
+<pb n="26" facs="tcp:121243:15"/> I was delivered from the mouth of the Lyon: <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in the depth, <hi>Jonah</hi> in the Whales belly, the three Children in the fie<g ref="char:EOLhyphen"/>ry Furnace, theſe are caſes peculiar to God that workes ſalvation in the midſt of the earth. You have ſeen the help;</p>
+               <p>Come we to the ſe<g ref="char:EOLhyphen"/>cond, which is the hold which he layes upon this help, for it's not ſufficient to ſee help at hand but we muſt lay hold upon it, lay hold upon my ſtrength ſaith God in <hi>Iſaiah.</hi> In<g ref="char:EOLhyphen"/>deed at all times we muſt put our truſt in him; but in extremities, in dangers,
+<pb n="27" facs="tcp:121243:15"/> when life begins to faile and to ſit in the ſnares of death then the Prophet claſps cloſe to God: here's not only <hi>contactus fi<g ref="char:EOLhyphen"/>dei,</hi> but <hi>complexus fidei,</hi> he lays hold upon him cloſe, he will not let him goe, as it was with <hi>Jacom</hi> when he was in danger, his bro<g ref="char:EOLhyphen"/>ther coming againſt him with 400 armed Men, he would not let the Angell goe. This is that, that magnifies the faith of a Chriſtian when he drawes neare to God. No near<g ref="char:EOLhyphen"/>neſſe can be too much, no approach too much; when we make God our refuge, then we ſhall be
+<pb n="28" facs="tcp:121243:16"/> ſure he will not fail us.</p>
+               <p>
+                  <hi>To underſtand this parti<g ref="char:EOLhyphen"/>cle Meus, my God, we will reſolve it into theſe particular expreſſions.</hi>
+               </p>
+               <p n="1">1 The Prophet calls him my God, he is the God of my ſpeciall ſer<g ref="char:EOLhyphen"/>vice and Religion, the God of my faith, of my piety, and of my devoti<g ref="char:EOLhyphen"/>on. Nature diſcovers a God; and infidelity will give us leave to truſt in him; but faith brings us near to him in cloſe ap<g ref="char:EOLhyphen"/>plication; this is that will give us good ground of help in trouble when
+<pb n="29" facs="tcp:121243:16"/> we come neare to God, and make the Lord our truſt, and confidence, and repoſe. Stick to God and he will ſtand for thee, we deale with God as the <hi>Iſraelites</hi> in time of diſtreſſe ſend and think <hi>Aſſiria</hi> will help at a pinch; No, let us ſtick cloſe to God.</p>
+               <p n="2">2 He is <hi>Meus,</hi> my God by publike profeſſion, and open adoration, the Prophet boaſts of his God in that time when he was forbidden to name a<g ref="char:EOLhyphen"/>ny other God but an I<g ref="char:EOLhyphen"/>doll; he laves hold upon God and the worſhip of God even at that time
+<pb n="30" facs="tcp:121243:17"/> when it was danger to him, nay it might be death and deſtruction. I this is that gives you aſſu<g ref="char:EOLhyphen"/>rance to God when you will owne him in the face of dangers. It was a baſe and unworthy ſpeech of them in <hi>Micha,</hi> hold thy peace, we will not name the name of God: No, what ſaith Chriſt? <hi>They that confeſſe me before men, my Father will confeſſe them at the laſt day.</hi> This is that, that makes us to be truly belonging to him when we own his Religion and maintain his cauſe. Alas we faile God too often, and therefore it is
+<pb n="31" facs="tcp:121243:17"/> juſt with God to faile us and leave us to our ſelves.</p>
+               <p n="3">3 He is my God, the God of my faith and of my affiance. Indeed this pirticle <hi>Meus,</hi> is faiths poſſeſſive, it workes it ſelfe into nearneſſe to God. Common faith leaves it at random, and particular ſaving faith brings us home to God in the greateſt cloſeneſſe; what ſaith <hi>Paul,</hi> he loved me, and gave himſelfe for me. What, ſaith <hi>Chri<g ref="char:EOLhyphen"/>ſiſtome,</hi> did <hi>Paul</hi> ingroſſe all to himſelfe? did Chriſt dve for him a<g ref="char:EOLhyphen"/>lone? No, he doth not exclude others, but to be
+<pb n="32" facs="tcp:121243:18"/> ſure he will include him<g ref="char:EOLhyphen"/>ſelfe. This makes us draw near to God when we have a ſpeciall intereſt and af<g ref="char:EOLhyphen"/>fiance in him. If we maintain his cauſe he will maintaine our cauſe and will deliver us. This is the property of faith, my Beloved is mine, and I am his ſaith the Spouſe; here are mutuall imbra<g ref="char:EOLhyphen"/>ſings of Chriſt and the Church. <hi>dic anima</hi> (ſaith <hi>Auſtin</hi>) ſay ſecurely <hi>Deus meus es tu,</hi> and then God will ſay to thy ſoule, I am thy ſalvation.</p>
+               <p n="4">4 He is my God by preſent evidence and ex<g ref="char:EOLhyphen"/>perience of this great de<g ref="char:EOLhyphen"/>liverance
+<pb n="33" facs="tcp:121243:18"/> and reſcue; it's that, that makes him now to renew his Cove<g ref="char:EOLhyphen"/>nants with God; God doth aſſure him as he doth ſpeake of his people, I will be know to thee by my name <hi>Jehovah,</hi> when I bring thee out of captivity from the Land of <hi>Egypt,</hi> God gives us then tryalls and experi<g ref="char:EOLhyphen"/>ences of his love, as is ſaid of the <hi>Jewes,</hi> three times a yeare they ſhall goe up to <hi>Jeruſalem</hi> and leave all their Towns un<g ref="char:EOLhyphen"/>man'd and unguarded (what ſaith God?) <hi>not any of thy enemies ſhall de<g ref="char:EOLhyphen"/>ſire thy Land, they ſhall
+<pb n="34" facs="tcp:121243:19"/> make no inroad nor inva<g ref="char:EOLhyphen"/>ſion.</hi>
+               </p>
+               <p n="5">5 He is my God by Reſolution in the ingage<g ref="char:EOLhyphen"/>ment to all holy thankful<g ref="char:EOLhyphen"/>neſſe, now <hi>Daniel</hi> does obliedge himſelfe to God by new Covenants, as the people when they return<g ref="char:EOLhyphen"/>ed from Captivity they entred into a new covenant with the Lord to be his people. Hath the Lord delivered thee from any danger? raiſed thee from any affliction? O then devote thy thankfulneſſe to God; as it was with <hi>David,</hi> how does he bleſſe God for his own and his peoples delive<g ref="char:EOLhyphen"/>rance
+<pb n="35" facs="tcp:121243:19"/> out of dangers, O this God ſhall be our God for ever and ever, our guide unto death. So <hi>Pſal.</hi> 116.16. <hi>I am thy ſervant, I am thy ſervant, and the ſon of thy hand<g ref="char:EOLhyphen"/>maid, why ſo? Thou haſt looſed my bonds, I will offer to the thee ſacrifice of thanks<g ref="char:EOLhyphen"/>giving.</hi> O When God hath vouchſafed ſuch mighty ſalvation as to this Nation, for us to ſit looſe by God, to grow ſtrange to him, to be falſe in his Covenant, to linger aftter falſe worſhips and falſe Gods; O it's moſt odius and execrable un<g ref="char:EOLhyphen"/>thankfullneſſe.</p>
+               <pb n="36" facs="tcp:121243:20"/>
+               <p>
+                  <hi>The ſecond particular is the Inſtrument by which this ſalvation was wrought; it was done by an Angel; and this ſpeech is conſi<g ref="char:EOLhyphen"/>dered upon two Reaſons.</hi>
+               </p>
+               <p n="1">1 It's not ſaid <hi>Angelus meus,</hi> but <hi>Deus meus,</hi> he doth not ſay God ſent my Angel, but my God ſent his Angel; he placeth this poſſeſſive word upon it's proper object. Indeed the aſſignement of par<g ref="char:EOLhyphen"/>ticular Angels to parti<g ref="char:EOLhyphen"/>cular men, it's a diſpute in the Schooles, it may paſſe for a likely and pro<g ref="char:EOLhyphen"/>bable opinion, but whe<g ref="char:EOLhyphen"/>ther
+<pb n="37" facs="tcp:121243:20"/> it be ſo or no, we are ſure of this, it was Gods Angell, and appointed by him to deliver his ſer<g ref="char:EOLhyphen"/>vant. Among the <hi>Jewes</hi> it was a common opinion that every man had his particular Angel; when <hi>Peter</hi> was delivered out of priſon he knockt and they ſaid it is his Angel; but what ſaith Saint <hi>Pe<g ref="char:EOLhyphen"/>ter?</hi> he anſwereth other<g ref="char:EOLhyphen"/>wiſe, the Lord hath ſent his Angel and brought me out of priſon: ſo <hi>Paul, Acts</hi> 27. <hi>Saith, the Angel of the Lord whoſe I am, and whom I ſerve appeared to me, &amp;c.</hi>
+               </p>
+               <p n="2">2 The ſpeech is obſerv<g ref="char:EOLhyphen"/>able
+<pb n="38" facs="tcp:121243:21"/> for an other reaſon; he doth not ſay <hi>Angelus venit,</hi> but <hi>Deus miſit,</hi> the Angell came, but God ſent his Angel to doe it.</p>
+               <p>Indeed thoſe holy An<g ref="char:EOLhyphen"/>gels and bleſſed ſpirits are moſt ready, moſt for<g ref="char:EOLhyphen"/>ward to aſſiſt us in all our dangers, in all our temptations; but here's that, that makes it com<g ref="char:EOLhyphen"/>fortable, the Angel came not by his owne motion, but by Gods miſſion. As the evill Angels can doe us no hurt, but by Gods promiſſion, ſo the good Angels cannot aſſiſt us but by Gods miſſion, and commiſſion; they are
+<pb n="39" facs="tcp:121243:21"/> all miniſtring ſpirits ſent forth for the good of them that are the heirs of ſelvation. It was that that comforted <hi>David, Pſal.</hi> 71 <hi>thou haſt given a command<g ref="char:EOLhyphen"/>ment to ſave me.</hi> Our deli<g ref="char:EOLhyphen"/>verance 'tis Gods appoint<g ref="char:EOLhyphen"/>ed commandment, and 'tis their appointment. Had the Papiſts the ſetting out of this ſtory, they would have told us the name of this Angel who he was, and what order he was, and he ſhould have an office, and they would have publiſhed ſolemn praiſe and thankſ<g ref="char:EOLhyphen"/>giving to the Angel; no, but <hi>Daniel</hi> that was con<g ref="char:EOLhyphen"/>verſant
+<pb n="40" facs="tcp:121243:22"/> with Angels over<g ref="char:EOLhyphen"/>lookes theſe, but gives thanks to God; as when <hi>Mannoah</hi> would have worſhipped the Angel, O ſaith he, if you ſacri<g ref="char:EOLhyphen"/>fice, let it be to God, and let him have the honour. It's <hi>Athanaſius</hi> his de<g ref="char:EOLhyphen"/>ſcription of an Angel, an Angel is an inviſible crea<g ref="char:EOLhyphen"/>ture living for ever, and alwayes ſinging praiſe and laud unto God. So then in that this delivery of the Prophet was wrought by an Angel, it puts upon this deliverance three excellencies.</p>
+               <p n="1">1 In that an Angel doth reſcue him from the
+<pb n="41" facs="tcp:121243:22"/> power of the Lyons it makes this reſcue to be comfortable: If <hi>Daniel</hi> be now excluded from men, and caſt amongſt wilde beaſts, I but here's his comfort, forſaken of men and viſited by an Angel. It was our Savi<g ref="char:EOLhyphen"/>ours caſe, <hi>Mark</hi> 1. <hi>He wandred in the wilderneſſe among wilde beaſts, but Angels came and miniſtred to him.</hi> Let the world ſpare their favours and viſits (ſuch as they are) here's the comfort, Gods diſtreſſed Children are forſaken by men, but vi<g ref="char:EOLhyphen"/>ſited by Angels.</p>
+               <p>Second, Excellency it
+<pb n="42" facs="tcp:121243:23"/> is an honourable delive<g ref="char:EOLhyphen"/>ry: ſuch a ſervant of God as this Prophet ſhall not only have ſafety but honour put upon him; as <hi>Elijah</hi> was not onely fed with a Raven, but an Angel came and brought him his meat, an Angel was his Steward and Cup<g ref="char:EOLhyphen"/>bearer, and miniſtred to him. The King of <hi>Iſ<g ref="char:EOLhyphen"/>raels</hi> Children it is ſaid were placed with the great men of the Citty that they might take care of them and attend them: Gods Children are placed not with the great men of the Citty but with the Angels of
+<pb n="43" facs="tcp:121243:23"/> heaven, they are com<g ref="char:EOLhyphen"/>paſſed about with Legi<g ref="char:EOLhyphen"/>ons of Angels.</p>
+               <p>Third, Excellency it was and avoidable an unirre<g ref="char:EOLhyphen"/>ſiſtable deliveranee ſuch as could not be diſap<g ref="char:EOLhyphen"/>pointed: They ſhut him in, and ſeal'd him in: what then? can they withſtand the entrance and power of an Angel? It was thus with Saint <hi>Peter, Herod</hi> clapt him up into Priſon, there were four Quaternians of Soldiers to watch him; the Iron gate that was faſtened upon him; Alas, poore help againſt an Angel; the Angel of
+<pb n="44" facs="tcp:121243:24"/> God came and preſently knockt off his ſhackles and opened the Iron gate and delivered him out of priſon. If men can clip an Angels wing, and pi<g ref="char:EOLhyphen"/>nion thoſe mighty powers and withſtand their en<g ref="char:EOLhyphen"/>trance, then and not till then ſhall they have pow<g ref="char:EOLhyphen"/>er againſt the Church of God. Thus thoſe two A<g ref="char:EOLhyphen"/>poſtles <hi>Peter</hi> and <hi>John</hi> were clapt up by the High-Prieſts, (but mark their delivery) the Sadu<g ref="char:EOLhyphen"/>ces ſhall know God hath Angels in heaven, the An<g ref="char:EOLhyphen"/>gel of the Lord came and opened the priſon doore, and bid them goe
+<pb n="45" facs="tcp:121243:24"/> into the Temple, and preach the word of life to the people. I this is their great ſecurity; they may withſtand us, but not thoſe holy Angels, thoſe mighty powers that have done his will; this makes it to be an extraordinary deliverance.</p>
+               <p>Thirdly, come we to the manner of this delive<g ref="char:EOLhyphen"/>rance, and that's ſet down in theſe words (they ſtopt the mouths of the Ly<g ref="char:EOLhyphen"/>ons.) God had infinite wayes to deliver his peo<g ref="char:EOLhyphen"/>ple from deſtruction; he might have altered the mind of <hi>Darius,</hi> and of his nobles, and given them
+<pb n="46" facs="tcp:121243:25"/> more moderate thoughts, as <hi>Ahaſuerus</hi> he made a bloudy Law, but God al<g ref="char:EOLhyphen"/>tered his mind; and <hi>Eſay</hi> comes marching againſt <hi>Jacob</hi> with 400 at his heeles, but God gave him a tender and brotherly affection; <hi>Laban</hi> drives after him furiouſly, but God ſtood by him by night, and commanded him to ſpeake neither good nor evil to him: God might have ſent a meſſage to him as to <hi>Pi<g ref="char:EOLhyphen"/>lat,</hi> have nothing to doe with this juſt man; but God lets them goe on, no ſtop is put to them yet, but here comes a
+<pb n="47" facs="tcp:121243:25"/> watchman, and a holy one from heaven, and daſhes all preſently. So then this deliverance was from the Lyons mouths, God might have wrought it o<g ref="char:EOLhyphen"/>therwiſe, but this was the moſt glorious deliverance to bring him out of it; ſometimes God delivers us by way of prevention, ſuffers us not to fall into danger: ſometimes God delivers us by way of ſub<g ref="char:EOLhyphen"/>venſion, reaches out the hand, and plucks us out of danger: but here God works by way of preſer<g ref="char:EOLhyphen"/>vation, lets us be in danger, yet preſerves us in it; to teach us in the greateſt
+<pb n="48" facs="tcp:121243:26"/> extreamity not to deſpair of the favour of God: when the ſnares of death are about us, when we are at the pits brink, nay at the pits bottome, he is a<g ref="char:EOLhyphen"/>ble then to bring us out, he is able to reſtraine the roaring Lyon that it ſhall not devour us; they may ſhew their teeth, but not lay their paw upon us; the buſh may burn, but tis not conſumed; there may be fire kindled, and perſecution may be a<g ref="char:EOLhyphen"/>gainſt the Church of God, but it ſhall not be deſtroyed. But how then did he ſtop the mouths of the Lyons.</p>
+               <pb n="49" facs="tcp:121243:26"/>
+               <p>
+                  <hi>Anſ.</hi> 1. By abating and reſtraining their vio<g ref="char:EOLhyphen"/>lence and fierceneſſe that they ſhould not lay hold upon him: Thus the Viper that venemous beaſt that fell on <hi>Pauls</hi> hand did not hurt him: God is able to withſtand and abate the rage of cruell men, he can caſt them into a dead ſleep that they cannot prevaile over us. This is that God that is able to deliver us and give us ſalvation in the midſt of our enemies.</p>
+               <p n="2">2. God did ſtop the mouths of theſe Lyons by ordering their fancy into a more moderate and
+<pb n="50" facs="tcp:121243:27"/> milde apprehenſion: Thus God promiſeth to deale with his people, the Lyon ſhall lye down with the Lambe, and a little childe ſhall lead him; God makes a covenant with them and the beaſts of the field, and the ſtones in the ſtreets: <hi>Noah, Daniel,</hi> and <hi>Job, Ezek.</hi> 14. Shall ſuffer no hurt by wilde beaſts.</p>
+               <p n="3">3. He does ſtop the mouths of the Lyons by making <hi>Daniel</hi> appeare awfull and dreadfull to them. The Image of God in <hi>Adam</hi> in innocen<g ref="char:EOLhyphen"/>cy gave him Soveraignty, and a powerfull com<g ref="char:EOLhyphen"/>mand
+<pb n="51" facs="tcp:121243:27"/> over all the beaſts, they were all in ſubjecti<g ref="char:EOLhyphen"/>on to him: now this I<g ref="char:EOLhyphen"/>mage of God ſhining gloriouſly in this ho<g ref="char:EOLhyphen"/>ly man <hi>Daniel,</hi> makes the Lyons quake and tremble at him (thou ſhalt walk upon the Lyon, and the Adder ſhall not hurt thee) this is the portion of Gods children, they are at peace with God, and he makes peace with the creature. Our rebel<g ref="char:EOLhyphen"/>lion to him makes the re<g ref="char:EOLhyphen"/>bellion of the creature againſt us. If we keep cloſe to God they ſhall obey us.</p>
+               <p>The fourth particular
+<pb n="52" facs="tcp:121243:28"/> is the degree of it, how far he was delivered (it is ſaid, he was not hurt by it) this makes it a perfect and compleat deliverance. Indeed the Prophet that went to <hi>Bethel</hi> the Lyon ſlew him, but did not de<g ref="char:EOLhyphen"/>vour him; but here was neither Jaw nor Paw, nei<g ref="char:EOLhyphen"/>ther Tooth nor Talon faſtened upon <hi>Daniel.</hi> Otherwhile God delivers his people out of many afflictions, but not with<g ref="char:EOLhyphen"/>out ſome marks and ſcars as their deliverance out of Captivity (are they not as a brand ſnatched out of the fire?) they were like a brand halfe
+<pb n="53" facs="tcp:121243:28"/> burnt, they were not con<g ref="char:EOLhyphen"/>ſumed, but ſhrowdly ſinged and ſcorched: the ſame Prophet tells us, it ſhould be as a ſheppard that takes out of the mouth of the Lyon, two leggs, but a remnant ſhall be ſaved: God ſuffers the King of <hi>Egypt</hi> to come and ſack <hi>Jeruſalem,</hi> and tells them they ſhall not prevaile, but yet you ſhall ſerve him for a time that you may know my ſervice and the ſervice of him: So God ſpeaks to his people, <hi>Jer.</hi> 30. <hi>I will not make a full end, but will correct you, I will not ſuffer you to goe on wholly unpuniſhed:</hi>
+                  <pb n="54" facs="tcp:121243:29"/> I theſe judgements are laid upon people for their ſins, for their diſobedience and falſeneſſe to God; but <hi>Daniel,</hi> and <hi>Shadrech, Meſech,</hi> and <hi>Abed-nego,</hi> God delivers them intire<g ref="char:EOLhyphen"/>ly, they were witneſſes for God, they avouched his worſhip, and ſtood in defence of it, therefore God gives them compleat deliverance.</p>
+               <p>Fiftly, the Motive that is here uſed that God takes notice of, and 'tis double, the firſt is the in<g ref="char:EOLhyphen"/>nocency of his perſon: (before God he was found innocent) ſecondly, the in<g ref="char:EOLhyphen"/>nocency of his cauſe <hi>(be<g ref="char:EOLhyphen"/>fore
+<pb n="55" facs="tcp:121243:29"/> thee O King have I done no hurt.</hi>
+               </p>
+               <p n="1">1. The Innocency of his perſon. Certainly <hi>Daniel</hi> was as all other men a ſin<g ref="char:EOLhyphen"/>ner, himſelfe confeſſeth it, <hi>Chapter</hi> 9. <hi>I confeſſe mine owne ſins, and the ſins of my people.</hi> So aſſerts <hi>John,</hi> if we ſay we have no ſin we wofully deceive our ſelves, and there's no truth in us. <hi>Daniel</hi> he was highly be<g ref="char:EOLhyphen"/>loved of God, and yet he had weakneſſes, frailties, and infirmities.</p>
+               <p n="2">2. <hi>Innocentia cauſae, I have done no wrong to thee O King.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> But he did not obey the Kings com<g ref="char:EOLhyphen"/>mandment,
+<pb n="56" facs="tcp:121243:30"/> for did not the King ſorbid him to pray, yet he will ſtill be pray<g ref="char:EOLhyphen"/>ing? Yes, he did ſo, yet he was an obedient ſub<g ref="char:EOLhyphen"/>ject, though he did croſſe the Kings command. He is a diſobedient ſubject that doth breake and trample under his feet, juſt, good, and profitable Lawes; but if the Law be againſt God and his will, we may well depart from it, but upon theſe three cautions.</p>
+               <p n="1">1. It muſt be in mani<g ref="char:EOLhyphen"/>feſt evill: if the Magi<g ref="char:EOLhyphen"/>ſtrate lay ſuch commands upon us as are repugnant to God and his word,
+<pb n="57" facs="tcp:121243:30"/> there our obedience muſt be reſtrained: yet when doubtfull as it was in the caſe of numbering the people, <hi>Joab</hi> miſliked it, it was vanity in the King; though he diſwaded him from it, yet the Kings Commandment tooke place, and he went a<g ref="char:EOLhyphen"/>bout it.</p>
+               <p n="2">2. Our diſobedience muſt be without con<g ref="char:EOLhyphen"/>tempt of their perſons and callings.</p>
+               <p n="3">3. It muſt be with of<g ref="char:EOLhyphen"/>fering of our paſſive o<g ref="char:EOLhyphen"/>bedience: If we cannot doe their wills we muſt o<g ref="char:EOLhyphen"/>bey their puniſhments; in the text you may obſerve
+<pb n="58" facs="tcp:121243:31"/> our Combinations.</p>
+               <p n="1">1. Here's <hi>Duplex obedi<g ref="char:EOLhyphen"/>entia,</hi> a double obedi<g ref="char:EOLhyphen"/>ence; obedience to God, and obedience to the King too; they muſt goe to<g ref="char:EOLhyphen"/>gether, we muſt not ſever them aſunder: we muſt not be <hi>Herodians,</hi> all for the King, if <hi>Herod</hi> be King all is well, no matter for God and his Religion: nor muſt we be Phariſees, only very ſtrict and nice upon ſome cerimonious point of Religion, but falſe heart<g ref="char:EOLhyphen"/>ed to the King; no, we muſt be both good Kings and good Subjects.</p>
+               <p n="2">2 Here<hi>'s Duplex</hi> tri<g ref="char:EOLhyphen"/>bunall, the tribunall of
+<pb n="59" facs="tcp:121243:31"/> God, and before him <hi>Da<g ref="char:EOLhyphen"/>niel</hi> is acquitted, &amp; count<g ref="char:EOLhyphen"/>ed innocent; then here's the tribunall of <hi>Darius,</hi> &amp; before him he is caſt and condemned. Well, here's our comfort, though the tribunall of Men may con<g ref="char:EOLhyphen"/>demn us, yet let them know there's a higher then they, <hi>Solomon</hi> ſpeaks it for our comfort, if we can ju<g ref="char:EOLhyphen"/>ſtifie our ſelvs before God.</p>
+               <p n="3">3 Here's <hi>Duplex ſolici<g ref="char:EOLhyphen"/>tudo,</hi> a double care; this Prophet ſhews his duty to God and man; firſt he does here plead his inno<g ref="char:EOLhyphen"/>cency before God: then he doth avouch his inno<g ref="char:EOLhyphen"/>cency before men, 'tis
+<pb n="60" facs="tcp:121243:32"/> that that <hi>Paul</hi> teaches us, I have exerciſed my ſelfe to have a conſcience void of offence both towards God and men.</p>
+               <p>Indeed he firſt prefers God, afterwards man, I count it no great matter to be judged by man's law: Good Chriſtians firſt obſerve their conſci<g ref="char:EOLhyphen"/>ence to God, and then their credit with the world, they will not be ſcandalous, nor give of<g ref="char:EOLhyphen"/>fence to any man.</p>
+               <p n="4">4. Combination, here <hi>is Duplex purgatio,</hi> a double purging of him<g ref="char:EOLhyphen"/>ſelfe; firſt before God a purgation of evidence;
+<pb n="61" facs="tcp:121243:32"/> God cleer'd him, and paſt a ſentence; but before men <hi>purgatio proteſtatio<g ref="char:EOLhyphen"/>nis,</hi> he doth proteſt and a<g ref="char:EOLhyphen"/>vow it before men.</p>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:121243:33"/>
+               <head>Application to the day.</head>
+               <p>LEnd me your atten<g ref="char:EOLhyphen"/>tion to ſome appli<g ref="char:EOLhyphen"/>cation of this Treaſon, and the deliverance which this day we are bound to commemorate with all poſſible thankfullneſſe. See the compariſon be<g ref="char:EOLhyphen"/>twixt theſe two.</p>
+               <list>
+                  <item>1. By way of ſimili<g ref="char:EOLhyphen"/>tude, how they both agree and are alike.</item>
+                  <item>2. By way of diſſimi<g ref="char:EOLhyphen"/>litude, how the Treaſon of this day exceeds that in the Text.</item>
+               </list>
+               <p>Firſt the ſimilitude in theſe particulars.</p>
+               <pb n="63" facs="tcp:121243:33"/>
+               <p n="1">1. They had the ſame Authors: who are they that would have ruin'd the Prophet? It was the <hi>Ba<g ref="char:EOLhyphen"/>bilonian</hi> Princes: And ſurely the Treaſon of this day was framed in the ſame wombe, it was the <hi>Babilonian</hi> Princes, the Pope and his complices plotted this great ruine to this Church. Saith <hi>Au<g ref="char:EOLhyphen"/>ſtin,</hi> here<hi>'s</hi> two <hi>Babyloni<g ref="char:EOLhyphen"/>ans, Babilon</hi> the Mother, and <hi>Babilon</hi> the Daugh<g ref="char:EOLhyphen"/>ter; the Eaſtern <hi>Babilon</hi> that<hi>'s</hi> the Mother; the Weſtern <hi>Babilon,</hi> that is the Daughter. We may ſay of this Treaſon what God ſaith, <hi>Ezek.</hi> 24.2.
+<pb n="64" facs="tcp:121243:34"/> 
+                  <hi>Son of man write the name of the day, even of this ſame day, the King of Ba<g ref="char:EOLhyphen"/>bilon ſet himſelfe againſt Jeruſalem this ſelfe ſame day.</hi>
+               </p>
+               <p n="2">2. They agree here in the Motive: What was the Motive that ſtirr'd up theſe <hi>Babilonian</hi> Princes to ſeeke the ruine of <hi>Da<g ref="char:EOLhyphen"/>niel?</hi> It was envy (as in<g ref="char:EOLhyphen"/>deed envy is alwayes in treaſon) they envyed him: ſo thoſe that plotted our ruine, O it gall'd and vex<g ref="char:EOLhyphen"/>ed them that King <hi>James</hi> ſucceeded in the Crown.</p>
+               <p n="3">3. The Plea that they make for themſelves; what's their Plea? The
+<pb n="65" facs="tcp:121243:34"/> ſentence of <hi>Darius</hi> was unalterable, he was con<g ref="char:EOLhyphen"/>demned by the Lawes of the <hi>Meades</hi> and <hi>Perſians</hi> that could not be chang<g ref="char:EOLhyphen"/>ed: And the Traytors of this day hath the ſame Plea, Pope <hi>Clemens</hi> ſent to the Papiſts not by any meanes to admit a pro<g ref="char:EOLhyphen"/>teſtant King here; for all the world like their fore<g ref="char:EOLhyphen"/>fathers the Preiſt and El<g ref="char:EOLhyphen"/>ders that condemned Chriſt, we have a Law, and by our Law he muſt dye.</p>
+               <p n="4">4. Their pretext was to preſerve the honour of the King, the King ſhould be worſhipped, and all
+<pb n="66" facs="tcp:121243:35"/> muſt concur in this courſe of worſhipping the King, and of him onely: And was not this the ſame a<g ref="char:EOLhyphen"/>mongſt our Traytors, the Popiſh religion bringing in Maſſe, burdening the Church withall thoſe trumperies? Nay, it was to worſhip their Popiſh <hi>Darius</hi> to acknowledge his Supremacie, and no Religion ſhould take place here among us, but onely by his allowance.</p>
+               <p n="5">5. They had a Cave, a Den of Lyons: So had theſe, and all in order to blow up and deſtroy.</p>
+               <p n="6">6. Here's a like deli<g ref="char:EOLhyphen"/>verance: he was deliver<g ref="char:EOLhyphen"/>ed
+<pb n="67" facs="tcp:121243:35"/> by an Angell: and certainly as great power from heaven did watch over us, the letter that gave notice of this trea<g ref="char:EOLhyphen"/>ſon (conſider it as or<g ref="char:EOLhyphen"/>dered by Gods provi<g ref="char:EOLhyphen"/>dence) it was written with a pen that was made of an Angels wing; as he there ſpeakes of write<g ref="char:EOLhyphen"/>ing the Scripture, the Devil hates that Fowl, that Bore, that Wing, that made that Pen by which the Scriptures were writ<g ref="char:EOLhyphen"/>ten.</p>
+               <p n="7">7. We were all deli<g ref="char:EOLhyphen"/>vered, the ſnare was bro<g ref="char:EOLhyphen"/>ken, our King and Parli<g ref="char:EOLhyphen"/>ament preſerved though
+<pb n="68" facs="tcp:121243:36"/> at the point of death, but all reſcued by Gods holy hand.</p>
+               <p>Secondly, the diſſimi<g ref="char:EOLhyphen"/>litude and diſagreement of theſe Traitors with thoſe of <hi>Babilon;</hi> the deliverance of this day doth much exceed it.</p>
+               <p n="1">1. The Conſpiracy of the <hi>Babilonian</hi> Princes were onely againſt one man, if they could but get <hi>Daniel</hi> inward, and cut him off, they were fully ſatisfied: But the conſpiracy of this day was not againſt one man; nay, the King, State, the Lords ſpirituall and tem<g ref="char:EOLhyphen"/>porall, the Law, reverend
+<pb n="69" facs="tcp:121243:36"/> Judges, all the flower of the Gentry were all to be blown up at one time; it was a univerſall deſtructi<g ref="char:EOLhyphen"/>on like <hi>Hamans</hi> conſpiracy ſcorning to reveng himſelf upon <hi>Mordecai</hi> alone, but he ſought the ruine and de<g ref="char:EOLhyphen"/>ſtruction of all the <hi>Jews.</hi>
+               </p>
+               <p n="2">2. The conſpiracie here againſt <hi>Daniel,</hi> it was a<g ref="char:EOLhyphen"/>gainſt one that was of the children of the captivity of <hi>Judah</hi> a forreigner: but the traytors of our dayes were againſt their own country men, their own brethren; they were all of them Engliſh men; the ſhame of our Nation to ſay ſo, that Vipers ſhould be thus
+<pb n="70" facs="tcp:121243:37"/> bred among us, but ſuch they were) if <hi>Jacob</hi> did ab<g ref="char:EOLhyphen"/>hor the cruelty of his two ſons, upon the <hi>Sichemites,</hi> how would he have digeſt<g ref="char:EOLhyphen"/>ed their cruelty towards their brother <hi>Joſeph?</hi>
+               </p>
+               <p n="3">3. The Coſpiracy a<g ref="char:EOLhyphen"/>mong the <hi>Babilonians,</hi> was againſt a man that was a Subject to King <hi>Darius:</hi> I but theſe men they plotted againſt King, Queen, Prince, Parliament, &amp; all the No<g ref="char:EOLhyphen"/>bles of the Land, all the blood Royall: This is that makes them extream odious, they would have deſtroyed, not onely one man, but the whole nation.</p>
+               <p n="4">4. This Treaſon and
+<pb n="71" facs="tcp:121243:37"/> conſpiracy, here it was a<g ref="char:EOLhyphen"/>gainſt the Prophet that was a Holy man of God, and the men that did it were ſecular men, Prin<g ref="char:EOLhyphen"/>ces, Commanders, Go<g ref="char:EOLhyphen"/>vernours; but the Trea<g ref="char:EOLhyphen"/>ſon of this day was wrought by Clergy men, men of the Church, holy Fathers of the Church of <hi>Rome,</hi> great Grandees of the Jeſuits. Indeed for ſecular men to maſicre the Preiſts of God is a high provoca<g ref="char:EOLhyphen"/>tion; but for Divines, men of the Church to plot treaſon and conſpi<g ref="char:EOLhyphen"/>racyes, to be incendiaryes of all ſeditions, that's
+<pb n="72" facs="tcp:121243:38"/> a double evill.</p>
+               <p n="5">5. They were cruell, yet there was ſome mercy in it. Firſt the Prophet hath ſome warning given him, there was a Law publiſhed and made known. Then they had faire proceeding, he was convented, examined, convicted, and ſo was condemned, the Prophet had time to looke a<g ref="char:EOLhyphen"/>bout him to prepare him<g ref="char:EOLhyphen"/>ſelfe for death to addreſſe himſelfe to God for the ſaving of the ſoule: But here was no warning, they did digg deepe, and hide in Hell; it was as ſud<g ref="char:EOLhyphen"/>daine deſtruction that
+<pb n="73" facs="tcp:121243:38"/> ſhould have been brought upon us.</p>
+               <p n="6">6. After this deliverance by the Angel <hi>Darius</hi> bleſ<g ref="char:EOLhyphen"/>ſes God for it, gives teſti<g ref="char:EOLhyphen"/>mony to that Religion that was thus honoured, repents himſelf of it, puniſhes thoſe that plotted this miſchiefe againſt them, and doth ad<g ref="char:EOLhyphen"/>vance <hi>Daniel</hi> to be the cheife man in his King<g ref="char:EOLhyphen"/>dome: But our conſpira<g ref="char:EOLhyphen"/>tors hung their heads, bit their lips, nay the Pope himſelfe was ſo far from ſaying with <hi>Jacob,</hi> curſed be their anger, that he had not ſo much as the ſpirit of old <hi>Eli</hi> to chide and re<g ref="char:EOLhyphen"/>prove
+<pb n="74" facs="tcp:121243:39"/> them; O my Sons I heare an ill report of you, you would have blown up the Parliament and deſtroyed Nations. No, they were far enough from that, for he does ca<g ref="char:EOLhyphen"/>nonize ſome of them for Marters, Bookes were written for their defence. When <hi>Elijah</hi> prevail'd over <hi>Baal's</hi> Prieſts in bringing fire from heaven, the people all renounce <hi>Baal,</hi> and cryed out the the Lord is God; but when the Lord anſwered us from heaven, not by kindling fire, but by quenching fire, but ſtill
+<pb n="75" facs="tcp:121243:39"/> they ſtand out in their obduration.</p>
+               <p>O Let us thankfully acknowledge this great mercy. O that men would therefore praiſe the Lord for his good<g ref="char:EOLhyphen"/>neſſe, and ſet forth his lov<g ref="char:EOLhyphen"/>ing kindneſſe before the ſons of men. If you count it now a day out of date, an old day, and it may now be forgotten, take heed a ſecond war does not finiſh that work that thoſe Traitors would have done but could not accompliſh. That ſpeech may truly be ſaid of us, never people were more
+<pb n="76" facs="tcp:121243:40" rendition="simple:additions"/> wonderfully delivered by God, and never was people ſo wofully and wretchedly undone by themſelves.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
